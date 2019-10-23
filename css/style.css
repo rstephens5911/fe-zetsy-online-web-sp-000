@@ -30,8 +30,7 @@ body {
 }
 
 #image .large{
-	min-width: 60%;
-	max-width: 80%;
+	width: 60%;
 	margin: 4px;
 	padding: 0px;
 	border: 4px solid #98ADA6;
