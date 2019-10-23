@@ -29,7 +29,6 @@ body {
 }
 
 #image {
-	box-sizing: content-box;
 	height: 50%;
 	width: 50%;
 
