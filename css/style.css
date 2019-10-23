@@ -40,7 +40,7 @@ body {
 
 /* Write all remaining styles here */
 #footer {
-	font-family: 'Times New Roman' serif;
+	font-size: 8px;
 	clear: both;
 	float: right;
 }
