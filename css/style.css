@@ -28,6 +28,11 @@ body {
 	padding: 0 45px 20px;
 }
 
+#image {
+	box-sizing: content-box;
+	
+}
+
 /* Write all remaining styles here */
 #footer {
 	clear: both;
