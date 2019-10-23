@@ -27,5 +27,6 @@ body {
 
 /* Write all remaining styles here */
 #footer {
+	clear: both;
 	float: right;
 }
