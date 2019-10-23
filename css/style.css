@@ -29,8 +29,8 @@ body {
 }
 
 #image {
-	height: 50%;
-	width: 50%;
+	min-width: 200px;
+	max-width: 400px;
 
 }
 
