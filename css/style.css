@@ -29,8 +29,8 @@ body {
 }
 
 #image .large{
-	min-width: 100px;
-	max-width: 200px;
+	min-width: 60%;
+	max-width: 80%;
 
 }
 
