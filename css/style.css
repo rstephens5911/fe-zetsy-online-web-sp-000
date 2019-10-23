@@ -4,7 +4,7 @@
 	src: ./fonts/Baskerville.ttc;
 }
 
-#header h1 {
+div #header {
 	font-family: 'Baskerville';
 }
 
