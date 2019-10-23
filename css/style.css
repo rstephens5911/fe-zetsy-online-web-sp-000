@@ -44,6 +44,10 @@ p {
 	font-size: 0.8em;
 }
 
+header a {
+	color: rgb(152,173,166);
+}
+
 header a: hover {
 	color: rgb(111,127,122);
 }
