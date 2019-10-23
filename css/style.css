@@ -5,7 +5,8 @@
 }
 
 #header {
-	font-family: 80px 'Baskerville' serif;
+	font-family: 'Baskerville';
+	font-size: 80px
 }
 
 /* link the web font used for the level 1 heading here */
