@@ -2,7 +2,6 @@
 @font-face {
 	font-family: 'Baskerville';
 	src: url('http://learn-co-curriculum.github.io/fe-zetsy/css/style.css')
-	format('embedded-opentype')
 }
 
 #header {
