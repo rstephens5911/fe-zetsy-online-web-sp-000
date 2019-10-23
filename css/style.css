@@ -49,7 +49,7 @@ header a {
 	text-decoration: none;
 }
 
-header a: hover {
+header a:hover {
 	color: rgb(111,127,122);
 }
 
