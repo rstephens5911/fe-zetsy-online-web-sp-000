@@ -29,7 +29,7 @@ body {
 	padding: 0 45px 20px;
 }
 
-#image.align-center .large{
+#image .large{
 	min-width: 60%;
 	max-width: 80%;
 	margin: 4px;
