@@ -47,7 +47,7 @@ p {
 }
 
 #featured img {
-	color: #1783bb;
+	border: 5px rgb(152,173,166) solid;
 }
 
 /* Write all remaining styles here */
