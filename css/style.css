@@ -58,10 +58,6 @@ header a:hover {
 }
 
 /* Write all remaining styles here */
-#footer {
-	clear: both;
-	float: right;
-}
 
 #press {
 	margin-bottom: 20px;
@@ -74,4 +70,9 @@ header a:hover {
 
 #press img:hover {
 	border: 5px rgb(111,127,122) solid;
+}
+
+#footer {
+	text-align: right;
+	background: #fff;
 }
