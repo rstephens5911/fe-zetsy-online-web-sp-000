@@ -26,3 +26,6 @@ body {
 }
 
 /* Write all remaining styles here */
+#footer {
+	float: right;
+}
