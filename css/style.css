@@ -48,6 +48,10 @@ p {
 	border: 5px rgb(152,173,166) solid;
 }
 
+#featured a:hover {
+	text-decoration: underline;
+}
+
 /* Write all remaining styles here */
 #footer {
 	clear: both;
