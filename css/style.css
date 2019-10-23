@@ -28,7 +28,7 @@ body {
 	padding: 0 45px 20px;
 }
 
-#image {
+#image .large{
 	min-width: 100px;
 	max-width: 200px;
 
